@@ -13,8 +13,9 @@ Visualisasi data MSIB menggunakan Power BI
 ![image](https://github.com/user-attachments/assets/253cb6cf-630a-46c2-87b3-cf2478c22d05)
 
 # Studikasus 6
->> Statistical Summary
+#>> Statistical Summary
 ![image](https://github.com/user-attachments/assets/7ccfa83d-b957-45f6-a99e-5682a483a100)
+
 >> Fitur analyze
 ![image](https://github.com/user-attachments/assets/3c2f4a10-550a-41f5-84fd-caf9117fd814)
 >> Fitur analyze
