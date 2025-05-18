@@ -3,6 +3,7 @@ Visualisasi data MSIB menggunakan Power BI
 
 # Studi kaasus 2
 >> Membersihkan, Mentransform dan Membuat Data di Power BI
+
 ![image](https://github.com/user-attachments/assets/66b46b6e-a04f-4df2-a4db-cc8b8e6ffd3a)
 
 # Studi kasus 4
