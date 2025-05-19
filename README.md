@@ -69,6 +69,8 @@ Dataset: Indeks Standar Pencemaran Udara di SPKU 2020 (https://data.jakarta.go.i
 YouTube: https://www.youtube.com/watch?v=jyN6ZhLRtlc
 Dataset: Indeks Standar Pencemaran Udara di SPKU 2020 (https://data.jakarta.go.id/dataset/indeks-standar-pencemaran-udara-ispu-tahun-2020/resource/67f87e67-4edd-4e5b-94f9-36f40f9295e2)
 
+>> Tugas Sinkron 2 room 5
+https://acmindonesia.sharepoint.com/sites/MicrosoftPowerBIDataAnalystAssociate/_layouts/15/stream.aspx?id=%2Fsites%2FMicrosoftPowerBIDataAnalystAssociate%2FShared%20Documents%2FGeneral%2FTugas%20Sinkron%2FHanifah%20Al%20Humaira%2F28%20%2D%2009%20%2D%202022%2FTugas%20Sinkron%202%5F%20Room%205%20%5F%20Hanifah%20Al%20Humaira%2Emp4&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E14cf5b73%2Dd707%2D4054%2D8575%2Daf8c72ac01cf
 
 ## Moduls
 >> https://learn.microsoft.com/en-us/training/modules/design-model-power-bi/
